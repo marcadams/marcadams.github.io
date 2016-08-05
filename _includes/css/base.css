@@ -266,6 +266,7 @@
   /* #Syntax highlighting
   ================================================== */
 
+
 .highlight {
   color: #f8f8f2;
   table-layout: fixed;
@@ -281,7 +282,6 @@
   padding: 10px;
   margin-bottom:20px;
 }
-
 .gutter, .lineno { color: #ccc; }
 
 td.gl { width: 40px; }
